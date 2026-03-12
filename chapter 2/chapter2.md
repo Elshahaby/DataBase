@@ -4,7 +4,7 @@
 
 ## 2.1 Data Models,Schemas , and Instances
 
-![photo](../chapter2/images/2.1.png)
+![photo](./images/2.1.png)
 
 ### 2.1.1 Categories of Data Models
 
@@ -186,6 +186,7 @@ They use to describe the database structure.<br> <br>
 
 ## 2.5.3 Three-Tier Architectures for Web Applications
 ![photo](../chapter2/images/2.5.4.png)
+
 
 
 - **any updates on two-tier should be done at all clients and that take time , but at at three-tier any updates will be done once at the middle layer and that save a lot of time.** and that give us a security layer 
