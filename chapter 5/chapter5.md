@@ -25,7 +25,7 @@
         - in formal model, column header is called an attribute(field).
         
 - EXAMPLE OF A RELATION
-![photo](../chapter5/images/1.png)
+![photo](./images/1.png)
 
 - Key of a Relation:
     - Each row has a value of a data item (or ser of items) <br>
@@ -44,10 +44,10 @@
 - ### State
     - it is one of the possible combinations of the result of product of all domain 
     - EXample:
-    ![photo](../chapter5/images/2.png)
+    ![photo](./images/2.png)
     - r(R): a specific state of the relation R - this is a set of tuples(rows).
 - ## Summary
-![photo](../chapter5/images/3.png)
+![photo](./images/3.png)
 
 --- 
 
@@ -135,4 +135,5 @@ attribute have a **unique** value.
     - **Update a foreign Key (FK)**
         - can't be updated by a value not exist in primary key(referential integrity).
     - **Update an ordinary attribute**
+
         - can also violate domain constraints.
